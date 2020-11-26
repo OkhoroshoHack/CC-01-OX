@@ -1,0 +1,13 @@
+#!/bin/sh
+clear
+echo "Selamat datang"
+echo "di Okhorosho Hack"
+echo "versi CC-01-OX"
+echo "Sebelum itu kalian Subscribe Okhorosho Channel,ya :)"
+echo "Siapa nama Anda?"
+read -p "Nama:" nama
+echo "Okhorosho: Hai" $nama
+echo "Okhorosho: Versi CC-01-OX adalah versi yang khusus untuk menghack nomor WA, walaupun ini masih Pengembangan. Aku harap kalian suka :). Coba masukkan nomor target anda, dijamin berhasil. Kalau gagal coba lagi"
+echo "Masukkan nomor target Anda"
+read -p "Nomor:" nomor
+echo "\033[0;31mSukses terkirim virus ke nomor target anda" $nomor
